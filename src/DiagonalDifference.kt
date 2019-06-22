@@ -18,7 +18,6 @@
     Print the absolute difference between the sums of the matrix's two diagonals as a single integer.
 */
 
-
 fun main() {
 
     var arr = arrayOf(arrayOf(11, 2, 4), arrayOf(4, 5, 6), arrayOf(10, 8, -12))
